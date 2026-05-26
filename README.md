@@ -147,7 +147,7 @@ By completing this project, I learned:
 
 # 👨‍💻 Author
 
-**Gokul Anjaan**  
+**Gokul R**  
 Cybersecurity Aspirant | AIML Student | Python Learner
 
 ---
